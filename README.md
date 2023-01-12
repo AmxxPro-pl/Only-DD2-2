@@ -80,7 +80,7 @@
 
 </details>
 
-#### Lista pluginów:
+### Lista pluginów:
 
 <details>
   <summary><b>Lista pluginów na serwerze: </b></summary>
