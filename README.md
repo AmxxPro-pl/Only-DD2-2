@@ -1,11 +1,13 @@
 # Only DD2 #2
 
 <b> Podstawowy opis paczki Only DD2 #2 (aby samemu sprawdzić paczkę zgłoś się do właściciela poprzez discorda)
+ - Dostępna jest nowa wersja paczki, która zawiera:
+ - Poprawiony kod, naprawa błędów, Sklep MVP z odczytem z pliku ini, czas gry i wiele więcej!
 	
-## Compatibility
-- 1.9-dev+5235 (tylko na tej wersji testowałem)
+### Compatibility
+- AMXModX 1.9 / 1.10 
 
-## Configuration
+### Configuration
 
 <details>
   <summary><b>Co należy zrobić po wgraniu paczki na serwer?: </b></summary>
