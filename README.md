@@ -1,5 +1,11 @@
-# Only DD2 #2
+<div align="center">
+<h1><p></p>ONLY DD2 #2<p></p></h1>
+<img src="https://github.com/AmxxPro-pl/.github/blob/main/Banner-new.png"></img>
+</div>
 
+---
+
+### Description
 <b> Podstawowy opis paczki Only DD2 #2 (aby samemu sprawdzić paczkę zgłoś się do właściciela poprzez discorda)
  - Dostępna jest nowa wersja paczki, która zawiera:
  - Poprawiony kod, naprawa błędów, Sklep MVP z odczytem z pliku ini, czas gry i wiele więcej!
