@@ -14,21 +14,7 @@
 - AMXModX 1.9 / 1.10 
 
 ### Configuration
-
-<details>
-  <summary><b>Co należy zrobić po wgraniu paczki na serwer?: </b></summary>
-
-```
-1. Musisz zmienic IP swojego serwera w DD2_Silnik i przekompilowac
-2. Zmieniasz informacje w Kontakcie o wlascicielu serwera 
-3. W razie klopotu pisz do mnie
-4. W pluginie DD2_reklama ustaw "amx_reklama_dozwolona" - cvar ustaw tam nazwe swojej sieci i przekompiluj (lub w amxx.cfg)
-5. W silniku DD2 ustaw DD2_forum nazwe swojego forum i przekompiluj (lub dodaj na koncu w amxx.cfg DD2_forum "nazwa")
-6. Zalecam ustawic czas do wybuchu c4 na 30sek. (licznik wtedy bedzie dobrze dzialal) - mp_c4timer "30" w server.cfg
-7. Najpierw prosze wrzucic cala paczke a dopiero potem zmieniac rzeczy w pluginach 
-8. W razie problemow z wychodzeniem z spawn z TT (chwilowy lag w jednym miejscu) prosze wylaczyc plugin DD2_ShowEQ. (na niektórych hostingach powoduje ten błąd)
-```
-</details>
+- Otrzymacie plik z informacjami potrzebnymi do konfiguracji po zakupie paczki np. Co należy dopisać do amxx.cfg itd.
 
 ### ScreenShots
 
