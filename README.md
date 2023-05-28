@@ -1,5 +1,5 @@
 <div align="center">
-<h1><p></p>ONLY DD2 #2<p></p></h1>
+<h1><p></p>ONLY DD2<p></p></h1>
 <img src="https://github.com/AmxxPro-pl/.github/blob/main/Banner-new.png"></img>
 </div>
 
