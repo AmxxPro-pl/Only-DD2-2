@@ -6,7 +6,7 @@
 ---
 
 ### Description
-<b> Podstawowy opis paczki Only DD2 #2 (aby samemu sprawdzić paczkę zgłoś się do właściciela poprzez discorda)
+<b> Podstawowy opis paczki Only DD2 (aby samemu sprawdzić paczkę zgłoś się do właściciela poprzez discorda)
  - Dostępna jest nowa wersja paczki, która zawiera:
  - Poprawiony kod, naprawa błędów, Sklep MVP z odczytem z pliku ini, czas gry i wiele więcej!
 	
